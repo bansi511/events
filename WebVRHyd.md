@@ -47,8 +47,7 @@ Timelines :
     Demo of basic A-Frame scenes & apps.
     Basic concepts of A-Frame & how to develop VR website.
  
-* 07:30 PM - 08:00 PM - 
-<QA & Interaction Time>
+* 07:30 PM - 08:00 PM - QA & Interaction Time
  
 ## PHASE 2
 
