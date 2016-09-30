@@ -65,10 +65,7 @@ Timelines :
 * 12:00 AM - 12:30 AM - 
   WEB TALK : Web components
 * 12:30 AM - 01:00 AM - 
-  Chat with Kevin and the MozillaVR team.
-  
-  ice - breakers
- 
+  Chat with Kevin and the MozillaVR team & Ice - breakers. 
 * 01:00 AM - 02:00AM - 
   A-Frame in depth.
   Hands-on on building advance scenes.
