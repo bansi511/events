@@ -1,14 +1,16 @@
 # WebVR Camp Hyderabad
 
-When    : 15-16 Oct, 2016
-Where   : Collab House, Hyderabad
-Event   : https://reps.mozilla.org/e/vr-hyderabad
-Register: https://goo.gl/forms/16k2lW9q6KexwiOc2
+* When    : 15-16 Oct, 2016
+* Where   : Collab House, Hyderabad
+* Event   : [https://reps.mozilla.org/e/vr-hyderabad](https://reps.mozilla.org/e/vr-hyderabad)
+* Register: [https://goo.gl/forms/16k2lW9q6KexwiOc2](https://goo.gl/forms/16k2lW9q6KexwiOc2)
 
 ## About event :
 
 Hi Everyone, We are very excited to announce this event which is going to be completely dedicated to WebVR. In this fun filled night long event you will learn WebVR development using A-Frame framework (one of emerging future technologies). This event is for participants who are selected via a registration process and we are expecting to on board many new contributors to WebVR. 
+
 We will also keep few interesting Web Development talks & interesting ice breaker session time to time to keep everyone energized.
+
 The venue is a very lively place, and believe us you wont event feel like sleeping. The venue is very safe, reach out to Ram (vaishnav.rd@gmail.com) if you have any questions.
 
 ## Registration Process :
