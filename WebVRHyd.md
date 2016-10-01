@@ -7,7 +7,7 @@
 
 ## About event :
 
-Hi Everyone, We are very excited to announce this event which is going to be completely dedicated to WebVR. In this fun filled night long event you will learn WebVR development using A-Frame framework (one of emerging future technologies). This event is for participants who are selected via a registration process and we are expecting to on board many new contributors to WebVR. 
+Hi Everyone, We are very excited to announce this event which is going to be completely dedicated to WebVR. In this fun filled night long event you will learn WebVR development using [A-Frame](https://aframe.io) framework (one of emerging future technologies). This event is for participants who are selected via a registration process and we are expecting to on board many new contributors to [WebVR](https://gurumukhi.wordpress.com/2016/09/21/a-frame-for-vr-development-on-web/). 
 
 We will also keep few interesting Web Development talks & interesting ice breaker session time to time to keep everyone energized.
 
@@ -73,3 +73,8 @@ Timelines :
 * 05:00 AM - 06:00 AM - 
     Review the whole event, Discuss Take-aways, Action plan and followup plan
 * Breakfast & Good Bye
+
+# Contact
+
+* Follow Facebook event page for event related updates - https://www.facebook.com/events/311069872618493/.
+* Join WebVR-India telegram group to keep yourself updated about our activities - https://telegram.me/WebVRIndia
