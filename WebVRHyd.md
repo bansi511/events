@@ -11,7 +11,7 @@ Hi Everyone, We are very excited to announce this event which is going to be com
 
 We will also keep few interesting Web Development talks & interesting ice breaker session time to time to keep everyone energized.
 
-The venue is a very lively place, and believe us you wont event feel like sleeping. The venue is very safe, reach out to Ram (vaishnav.rd@gmail.com) if you have any questions.
+The venue is a very lively place, and believe us you wont event feel like sleeping. The venue is very safe, reach out to [Ram](vaishnav.rd@gmail.com) if you have any questions.
 
 ## Registration Process :
 
@@ -25,7 +25,7 @@ Registration form : [https://goo.gl/forms/16k2lW9q6KexwiOc2](https://goo.gl/form
 
 Timelines :
 * Registrations starts : Monday, Sept 26th
-* Last date to register : Sunday, Oct 3rd
+* Last date to register : Monday, Oct 3rd
 * Last date to complete the activity & send us : Friday, Oct 07th
 * Mail sent to accepted attendees : Sunday, Oct 09th
 * Fun Day, Event Day : Saturday, Oct 15th
