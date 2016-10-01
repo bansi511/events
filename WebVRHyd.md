@@ -24,8 +24,7 @@ Event breakdown (if you can't stay overnight, you can register for phase 1 alone
 Registration form : [https://goo.gl/forms/16k2lW9q6KexwiOc2](https://goo.gl/forms/16k2lW9q6KexwiOc2).
 
 Timelines :
-* Last date to register : Monday, Oct 3rd
-* Last date to complete the activity : Friday, Oct 07th
+* Last date to register : Monday, Oct 8rd [ Second mouse deadline ;-) ]
 * Mail sent to accepted attendees : Sunday, Oct 09th
 * Fun Day, Event Day : Saturday, Oct 15th
 
