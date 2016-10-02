@@ -4,6 +4,7 @@
 * Where   : Collab House, Hyderabad
 * Event   : [https://reps.mozilla.org/e/vr-hyderabad](https://reps.mozilla.org/e/vr-hyderabad)
 * Register: [https://goo.gl/forms/16k2lW9q6KexwiOc2](https://goo.gl/forms/16k2lW9q6KexwiOc2)
+* Meetup  : [https://www.meetup.com/Collab-House-A-Collaboration-Hub/events/234572363/](https://www.meetup.com/Collab-House-A-Collaboration-Hub/events/234572363/)
 
 ## About event :
 
