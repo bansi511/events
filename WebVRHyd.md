@@ -29,6 +29,8 @@ Timelines :
 * Mail sent to accepted attendees : Sunday, Oct 09th
 * Fun Day, Event Day : Saturday, Oct 15th
 
+In case you cannot attend the event for any reason, you will be able to view most of sessions on youtube as they will be  live streamed & recordings will be available on youtube.
+
 # Detailed Agenda
 
 ## PHASE 1
