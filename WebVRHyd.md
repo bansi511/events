@@ -54,7 +54,7 @@ In case you cannot attend the event for any reason, you will be able to view mos
     What does the fox say dance :D.
     Session on git & github
 * 9:00 PM - 9:30 PM - 
-    Entity Component System & three.js- The foundation of A-Fram
+    A-Frame - VR development techniques and best practices *Guest talk through video conferencing by [Yoni Binstock](http://www.yonibinstock.com/) 
 * 9:30 PM - 10:00 PM - 
     Time for fun and food
 * 10:00 PM - 10:30 AM - 
