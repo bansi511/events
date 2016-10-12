@@ -72,7 +72,7 @@ In case you cannot attend the event for any reason, you will be able to view mos
   Hands-on on building advance scenes.
 * 02:00 AM - 04:30 AM - 
   Propose your idea of web - apps & build some cool experiences & surprise activities in between.
-* 04:30 AM - 05:00 AM
+* 04:30 AM - 05:00 AM -
   Virtual Reality - How to engage people and share your experience.(Guest talk through video conferencing by [Patrick Catanzariti](http://www.patrickcatanzariti.com/))
 * 05:00 AM - 06:00 AM - 
     Review the whole event, Discuss Take-aways, Action plan and followup plan
